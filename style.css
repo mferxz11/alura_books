@@ -1,0 +1,18 @@
+:root{
+    --cor-de-fundo: #ebecee; 
+    --cor-de-menu: #ae6fff;
+    --cor-de-footer: hsl(170, 100%, 26%); 
+    --cor-de-letra: #ffffff; 
+
+
+}
+
+body{
+    background-color: rgb(194, 0, 90);
+
+}
+
+h1{
+    color: var(--cor-de-letra) 
+
+}
